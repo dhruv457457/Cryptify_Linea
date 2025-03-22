@@ -1,1 +1,1 @@
-# Cryptify_Linea
+# EduChain_Web-3-Project
